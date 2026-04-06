@@ -8,4 +8,4 @@ execute below command
 npm install
 
 to execuute test
-npx playwright test
+npx playwright test tests/sample_test.spec.js
